@@ -1,0 +1,14 @@
+C:\Users\Bilge Adam\source\repos\YZL-5101\yzl5101uygulamalar\Solution1\DiziUygulama\obj\Debug\net8.0\DiziUygulama.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bilge Adam\source\repos\YZL-5101\yzl5101uygulamalar\Solution1\DiziUygulama\obj\Debug\net8.0\DiziUygulama.AssemblyInfoInputs.cache
+C:\Users\Bilge Adam\source\repos\YZL-5101\yzl5101uygulamalar\Solution1\DiziUygulama\obj\Debug\net8.0\DiziUygulama.AssemblyInfo.cs
+C:\Users\Bilge Adam\source\repos\YZL-5101\yzl5101uygulamalar\Solution1\DiziUygulama\obj\Debug\net8.0\DiziUygulama.csproj.CoreCompileInputs.cache
+C:\Users\Bilge Adam\source\repos\YZL-5101\yzl5101uygulamalar\Solution1\DiziUygulama\bin\Debug\net8.0\DiziUygulama.exe
+C:\Users\Bilge Adam\source\repos\YZL-5101\yzl5101uygulamalar\Solution1\DiziUygulama\bin\Debug\net8.0\DiziUygulama.deps.json
+C:\Users\Bilge Adam\source\repos\YZL-5101\yzl5101uygulamalar\Solution1\DiziUygulama\bin\Debug\net8.0\DiziUygulama.runtimeconfig.json
+C:\Users\Bilge Adam\source\repos\YZL-5101\yzl5101uygulamalar\Solution1\DiziUygulama\bin\Debug\net8.0\DiziUygulama.dll
+C:\Users\Bilge Adam\source\repos\YZL-5101\yzl5101uygulamalar\Solution1\DiziUygulama\bin\Debug\net8.0\DiziUygulama.pdb
+C:\Users\Bilge Adam\source\repos\YZL-5101\yzl5101uygulamalar\Solution1\DiziUygulama\obj\Debug\net8.0\DiziUygulama.dll
+C:\Users\Bilge Adam\source\repos\YZL-5101\yzl5101uygulamalar\Solution1\DiziUygulama\obj\Debug\net8.0\refint\DiziUygulama.dll
+C:\Users\Bilge Adam\source\repos\YZL-5101\yzl5101uygulamalar\Solution1\DiziUygulama\obj\Debug\net8.0\DiziUygulama.pdb
+C:\Users\Bilge Adam\source\repos\YZL-5101\yzl5101uygulamalar\Solution1\DiziUygulama\obj\Debug\net8.0\DiziUygulama.genruntimeconfig.cache
+C:\Users\Bilge Adam\source\repos\YZL-5101\yzl5101uygulamalar\Solution1\DiziUygulama\obj\Debug\net8.0\ref\DiziUygulama.dll
